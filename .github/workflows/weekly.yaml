@@ -1,4 +1,4 @@
-name: Build weekly
+name: Weekly schedule
 
 on:
   schedule:
